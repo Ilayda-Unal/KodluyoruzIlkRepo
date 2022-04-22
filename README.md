@@ -1,12 +1,12 @@
 # KodluyoruzIlkRepo
 
-Bu repo (https://www.kodluyoruz.org/)[Kodluyoruz] Veri Bilimi eğitimi kapsamında açtığım ilk repo. İçinde bir adet README dosyası ve bir de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Veri Bilimi eğitimi kapsamında açtığım ilk repo. İçinde bir adet README dosyası ve bir de index.html barındırıyor.
 
 ## Installation
 
 Öncelikle projeyi clonelayın.(https://github.com/Ilayda-Unal/KodluyoruzIlkRepo.git)
 
-`print("Sayfama hoşgeldiniz :)")`
+`Sayfama hoşgeldiniz :)`
 
 ## Usage
 
@@ -18,5 +18,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-(https://choosealicense.com/licenses/mit/)[MIT]
+[MIT](https://choosealicense.com/licenses/mit/)
 
