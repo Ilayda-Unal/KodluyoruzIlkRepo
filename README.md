@@ -2,15 +2,21 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Veri Bilimi eğitimi kapsamında açtığım ilk repo. İçinde bir adet README dosyası ve bir de index.html barındırıyor.
 
+
 ## Installation
 
-Öncelikle projeyi clonelayın.(https://github.com/Ilayda-Unal/KodluyoruzIlkRepo.git)
+Öncelikle projeyi clonelayın.
 
-`Sayfama hoşgeldiniz :)`
+`https://github.com/Ilayda-Unal/KodluyoruzIlkRepo.git)`
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için;
+
+`cd kodluyoruzilkrepo`
+`code .`
 
 ## Contributing
 
